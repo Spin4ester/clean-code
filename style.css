@@ -142,10 +142,10 @@
 }
 
 .main__list.edit__mode .task__input {
-    display:inline-block;
-    width:224px;
+    display: inline-block;
+    width: 224px;
 }
 
 .main__list.edit__mode .task__name {
-    display:none;
+    display: none;
 }
