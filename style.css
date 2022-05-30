@@ -17,7 +17,7 @@
     font-family: fantasy, cursive;
 }
 
-@media (max-width:768px) {
+@media (max-width: 768px) {
 .header { text-align: center;
 }
 }
@@ -41,12 +41,12 @@
 }
 .main__title,
 .items__list {
-    list-style:none;
+    list-style: none;
 }
 .task__input,
 .button,
 .task__checkbox {
-    outline:none;
+    outline: none;
 }
 .button {
     background: none;
