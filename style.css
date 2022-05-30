@@ -49,11 +49,14 @@
   padding: 0px;
 }
 
-.main__title, .items__list {
+.main__title, 
+.items__list {
   list-style: none;
 }
 
-.task__input, .button, .task__checkbox {
+.task__input, 
+.button, 
+.task__checkbox {
   outline: none;
 }
 
