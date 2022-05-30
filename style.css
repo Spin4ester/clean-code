@@ -152,7 +152,7 @@
 }
 
 /* Completed */
-.main__list#completed__tasks .task__name {
+.completed__list .task__name {
   text-decoration: line-through;
   color: #888;
 }
